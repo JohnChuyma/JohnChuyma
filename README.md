@@ -40,7 +40,7 @@ Cybersecurity professional focused on Security Engineering, detection, and secur
 - Performed static and dynamic malware analysis
 - Created custom SIEM alerts and SOAR playbooks
 
-👉 (Add when ready)
+👉 (In Progress)
 
 ---
 
@@ -52,7 +52,7 @@ Cybersecurity professional focused on Security Engineering, detection, and secur
 
 ## 📄 Resume
 
-👉 [Download Resume](./John_Chuyma_Resume.pdf)
+👉 [Download Resume](./John_Resume security.pdf)
 
 ---
 
