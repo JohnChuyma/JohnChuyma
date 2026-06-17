@@ -52,7 +52,7 @@ Cybersecurity professional focused on Security Engineering, detection, and secur
 
 ## 📄 Resume
 
-👉 [Download Resume](./John_Chuyma_Security_resume.pdf)
+👉 [Download Resume](./John_Chuyma_Security_Resume.pdf)
 
 ---
 
