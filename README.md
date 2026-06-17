@@ -7,7 +7,7 @@ Cybersecurity professional focused on Security Engineering, detection, and secur
 ## 🔐 About Me
 
 - 🎓 B.S. in Cybersecurity Emmaus University
-- 🛠️ IT Help Desk Analyst with enterprise experience (Active Directory, Intune)
+- 🛠️ IT Analyst I
 - 🧠 Passionate about security engineering, malware analysis, and detection systems
 - 📊 CompTIA CySA+, Security+, Network+ certified
 
@@ -26,7 +26,7 @@ Cybersecurity professional focused on Security Engineering, detection, and secur
 ## 🚀 Featured Projects
 
 ### 🔹 Enterprise Network Security Architecture
-- Designed a PCI-DSS and NIST aligned network architecture
+- Designed a PCI-DSS aligned network architecture
 - Developed 40+ page enterprise security document
 - Implemented RBAC and segmentation strategies
 - Validated architecture in a virtual lab environment  
@@ -52,7 +52,7 @@ Cybersecurity professional focused on Security Engineering, detection, and secur
 
 ## 📄 Resume
 
-👉 [Download Resume](./John_Resume security.pdf)
+👉 [Download Resume](./John_Chuyma_Security_resume.pdf)
 
 ---
 
