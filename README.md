@@ -6,7 +6,7 @@ Cybersecurity professional focused on Security Engineering, detection, and secur
 
 ## 🔐 About Me
 
-- 🎓 B.S. in Cybersecurity (Emmaus University, expected 2026)
+- 🎓 B.S. in Cybersecurity Emmaus University
 - 🛠️ IT Help Desk Analyst with enterprise experience (Active Directory, Intune)
 - 🧠 Passionate about security engineering, malware analysis, and detection systems
 - 📊 CompTIA CySA+, Security+, Network+ certified
@@ -53,13 +53,6 @@ Cybersecurity professional focused on Security Engineering, detection, and secur
 ## 📄 Resume
 
 👉 [Download Resume](./John_Chuyma_Resume.pdf)
-
----
-
-## 🌐 Connect With Me
-
-- GitHub: https://github.com/JohnChuyma
-- LinkedIn: https://linkedin.com/in/john-chuyma
 
 ---
 
