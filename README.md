@@ -13,6 +13,12 @@ Cybersecurity professional focused on Security Engineering, detection, and secur
 
 ---
 
+## 📄 Resume
+
+👉 [Full Resume](./John_Chuyma_Security_Resume.pdf)
+
+---
+
 ## 🛡️ Core Skills
 
 - SIEM & SOAR (alert tuning, playbooks, detection engineering)
@@ -47,12 +53,6 @@ Cybersecurity professional focused on Security Engineering, detection, and secur
 ### 🔹 Homelab Infrastructure (In Progress)
 - NAS hosting file server, media server, and dashboards
 - Building secure internal services and segmentation
-
----
-
-## 📄 Resume
-
-👉 [Download Resume](./John_Chuyma_Security_Resume.pdf)
 
 ---
 
