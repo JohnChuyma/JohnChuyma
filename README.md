@@ -3,6 +3,8 @@ I am an IT analyst who is passionate about security engineering and malware anal
 Im always trying to push myself to be the best I can, and am always eager for the next challenege.   
 You can find some of my finished projects in my repositories.   
 
+---
+
 ### Current projects:  
 🔹 Malware Analysis & SIEM Lab  
 🔹 piecing together a report on an observed phishing campaign  
