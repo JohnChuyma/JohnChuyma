@@ -24,10 +24,12 @@ You can find some of my finished projects in my repositories.
 <div align="center">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=Sadid19&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub stats" />-->
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=JohnChuyma&theme=tokyonight&hide_border=true" />
-</div>
+  
+<!--/div>
 <div align="center" style="margin-top: 15px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnChuyma&theme=react-dark&hide_border=true&area=true" width="90%" alt="GitHub activity graph" />
-</div>
+</div-->
+
 <!--GitHub Stats -->
 <br clear="both">
 <div align="center">
