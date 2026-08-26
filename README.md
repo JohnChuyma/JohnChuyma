@@ -6,9 +6,9 @@ You can find some of my finished projects in my repositories.
 ---
 
 ### Current projects:  
-🔹 Malware Analysis & SOC Lab  
-🔹 Learning KQL and CQL
-🔹 Build custom detection rules
+🔹 Malware Analysis & SOC Lab   
+🔹 Learning KQL and CQL  
+🔹 Build custom detection rules  
 🔹 building out my homelab with a NAS to replace various subscriptions  
 🔹 testing my skills in Try hack me, Lets deffend, and hack the box.  
 
