@@ -1,16 +1,15 @@
 ## Hey, I'm John chuyma  
-I am an IT analyst who is passionate about security engineering and malware analysis.  
+I am a security engineer who is passionate about security and the work I do. 
 Im always trying to push myself to be the best I can, and am always eager for the next challenege.   
 You can find some of my finished projects in my repositories.   
 
 ---
 
 ### Current projects:  
-🔹 Malware Analysis & SOC Lab   
-🔹 Learning KQL and CQL  
-🔹 Build custom detection rules  
+🔹 Analyze, and reverse engineer Malware samples to learn how they work
+🔹 write detection rules for the malware I've analyzed
+🔹 Improving my KQL and CQL skills   
 🔹 building out my homelab with a NAS to replace various subscriptions  
-🔹 testing my skills in Try hack me, Lets deffend, and hack the box.  
 
 ---
 
