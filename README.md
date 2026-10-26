@@ -7,9 +7,9 @@ You can find some of my finished projects in my repositories.
 
 ### Current projects:  
 🔹 Analyze, and reverse engineer Malware samples to learn how they work  
-🔹 write detection rules for the malware I've analyzed  
-🔹 Improving my KQL and CQL skills    
-🔹 building out my homelab with a NAS to replace various subscriptions  
+🔹 write detection rules for the malware I've analyzed 
+🔹 Read through 6+ books I have on different aspects of security and take notes
+🔹 improve my home lab and selfhosted applications by making them more optimized, secure, usable
 
 ---
 
@@ -17,6 +17,7 @@ You can find some of my finished projects in my repositories.
 🔹 I play violin  
 🔹 I play soccer when I get the chance  
 🔹 I enjoy going to the gym  
+🔹 I play chess
 🔹 I enjoy setting up sound systems, watching shows, and playing videogames  
 
 ---
