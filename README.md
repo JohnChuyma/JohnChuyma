@@ -17,7 +17,7 @@ You can find some of my finished projects in my repositories.
 🔹 I play violin  
 🔹 I play soccer when I get the chance  
 🔹 I enjoy going to the gym  
-🔹 I play chess
+🔹 I play chess  
 🔹 I enjoy setting up sound systems, watching shows, and playing videogames  
 
 ---
