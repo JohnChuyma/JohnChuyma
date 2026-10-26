@@ -6,9 +6,9 @@ You can find some of my finished projects in my repositories.
 ---
 
 ### Current projects:  
-🔹 Analyze, and reverse engineer Malware samples to learn how they work
-🔹 write detection rules for the malware I've analyzed
-🔹 Improving my KQL and CQL skills   
+🔹 Analyze, and reverse engineer Malware samples to learn how they work  
+🔹 write detection rules for the malware I've analyzed  
+🔹 Improving my KQL and CQL skills    
 🔹 building out my homelab with a NAS to replace various subscriptions  
 
 ---
